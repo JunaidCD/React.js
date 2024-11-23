@@ -1,0 +1,43 @@
+# Event Management Platform
+
+A simple platform built with React.js for managing and exploring events. Users can browse through various events, view detailed descriptions, learn about the event venue, and check the event's month and year. The subscription, settings, and other features are still under construction and will be added later.
+
+## Features
+
+- Browse a list of upcoming events
+- View detailed descriptions of each event
+- Check the venue and month/year of the event
+- User-friendly interface built with React.js
+- Subscription, settings, and other features are under construction
+
+## Technologies Used
+
+- **React.js**: Frontend library for building the user interface
+- **React Icons**: For adding icons to the app
+- **React Router**: For managing navigation (if applicable)
+- **CSS/SCSS**: Styling for the application
+
+## Installation
+
+To get started with the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/event-management.git
+
+2.Navigate into the project directory:
+
+   cd eventmanagement
+
+3.Install the project dependencies:
+ 
+   npm install
+
+4.Install react-icons:
+   
+   npm install react-icons
+
+5.Run the development server:
+
+  npm run dev
